@@ -10,7 +10,7 @@ The MNIST database of handwritten digits, has a training set of 60,000 examples,
 
 It is a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NiVander/MNIST-Handwritten-Digit-Recognition/master)
 
 
 ```
@@ -20,4 +20,3 @@ the theoretical aspect:
 - https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721
 - https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NiVander/MNIST-Handwritten-Digit-Recognition/master)
