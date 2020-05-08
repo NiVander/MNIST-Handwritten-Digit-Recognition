@@ -1,0 +1,14 @@
+name: MNIST_env
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - markdown=3.1.1
+  - matplotlib
+  - pandas=1.0.3
+  - pip
+  - pip:
+	- tensorflow
+    - opencv-python
+	- keras
